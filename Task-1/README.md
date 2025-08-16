@@ -59,17 +59,16 @@ To-Do List Menu:
 ## Project Structure
 
 ```
-todo_list.py     # Main Python script
-README.md        # Project documentation
+todo_list.py    
+README.md        
 ```
 
 ---
 
 ## Author
 
-**Your Name**  
+**Keshav Kumar**  
 Python Intern at CodSoft  
-GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
 
@@ -77,4 +76,3 @@ GitHub: [@yourusername](https://github.com/yourusername)
 
 - Task 1: To-Do List – Completed
 - Task 2: Coming soon
-
