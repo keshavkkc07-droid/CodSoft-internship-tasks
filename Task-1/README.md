@@ -1,4 +1,4 @@
-# ✨ To-Do List App (Tkinter)
+# ✨ To-Do List
 
 A simple yet fun **To-Do List application** built with Python’s **Tkinter** GUI toolkit. It comes with animations, progress tracking, and a touch of celebration 🎉 when you complete tasks!  
 
